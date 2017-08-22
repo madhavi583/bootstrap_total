@@ -1,0 +1,66 @@
+.customDiv{
+    margin-bottom: 3px;
+    min-height: 300px;
+    /*background-color: sliver;*/
+    background-color: green;
+    text-align: center;
+    font-size: large;
+}
+.sidebarcontent{
+    margin-bottom: 10px;
+    min-height: 150px;
+    /*background-color: sliver;*/
+    background-color: green;
+    text-align: center;
+    font-size: large;
+}
+.maincontent{
+    margin-bottom: 10px;
+    min-height: 310px;
+    /*background-color: sliver;*/
+    background-color: skyblue;
+    text-align: center;
+    font-size: large;
+}
+.customDiv1{
+    margin-bottom: 3px;
+    min-height: 300px;
+    /*background-color: sliver;*/
+    background-color: orangered;
+    text-align: center;
+    font-size: large;
+}
+.custommm{
+    margin-bottom: 10px;
+    min-height: 50px;
+    /*background-color: sliver;*/
+    background-color: orangered;
+    text-align: center;
+    font-size: large;
+}
+/*body{
+    padding-top:50px;
+}*/
+.breadcrumb>li+li:before {
+   
+    content: "|";
+}
+.breadcrumb {
+    padding: 8px 15px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: skyblue;
+    border-radius: 4px;
+}
+.breadcrumb>.active {
+    color: red;
+}
+.well {
+    
+    background-color:#DDF7C;
+   
+}
+.jumbotron{
+    
+    background-color: green;
+}
